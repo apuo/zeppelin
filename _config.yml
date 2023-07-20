@@ -126,9 +126,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Contact us"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Contact us if you want to attend the conference or sponsor the event"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -174,24 +174,21 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://www.facebook.com/VEF2.0/", icon: "facebook"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://vef2.org/", text: "VEF2.0"}
+ #  - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
    - {link: "mailto:cuong-nguyen@vef2.org", text: "cuong-nguyen@vef2.org"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+
 
 # # Blog
 # blogTitle: "Latest news"
