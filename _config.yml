@@ -140,7 +140,7 @@ ticketsOffers:
   priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Pay Now"
   ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
   validFrom: "2023-08-17T10:00"
@@ -152,7 +152,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Buy Now"
   ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
   validFrom: "2023-08-17T10:00"
@@ -163,7 +163,7 @@ ticketsOffers:
   price: "50"
   priceCurrency: "USD"
   ticketsNumber: "50"
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in"
   ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
