@@ -36,6 +36,11 @@
   place: "New Jersey Institute of Technology (Building and Room TBC)"
   service: true
 -
+  id: 310
+  title: "Break"
+  place: ""
+  service: true
+-
   id: 307
   title: "Graduate student talk: interdisciplinary discussion"
   place: "New Jersey Institute of Technology (Building and Room TBC)"
@@ -51,7 +56,7 @@
   place: "New Jersey Institute of Technology (Building and Room TBC)"
   service: true
 -
-  id: 309
+  id: 311
   title: "New York City tour and other optional activities and departure
   place: "New York City"
   service: true
