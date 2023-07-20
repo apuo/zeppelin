@@ -65,19 +65,19 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Location: New Jersey Institute of Technology"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Vietnamese Scientists and Engineers conference in the United States!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Young Vietnamese scholars session", image: "conference.jpg", text: "Presentation of research and projects by Vietnamese high school and undergraduate students" }
+ - {title: "Team building activitites", image: "workshop.jpg", text: "Fun team building activities for participants to get to know each other" }
+ - {title: "All the ways home", image: "hackathon.jpg", text: "Trends and career opportunities for engineers and scientists in Vietnam in the next five years" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from different locations in the US and Vietnam"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "to network with the best Vietnamese minds in science and engineers"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from academia, industry and management"}
+ - {count: "2", specialCharacter: "", info: "types of activities", detail: "professional presentations and networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
