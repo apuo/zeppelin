@@ -2,20 +2,19 @@
   date: "2023-08-17"
   dateReadable: "August 17, 2023"
   tracks: 
-    - {title: "Content", color: "#90be4e"}
-    # - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Speaker", color: "#90be4e"}
+    - {title: "Topic", color: "#03a9f4"}
     # - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-        sessionIds: [002]
-    	# sessionIds: [002, 003, 004]
+     	sessionIds: [004, 404]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003]
+        sessionIds: [003,004]
         # sessionIds: [003, 404, 004]
     }
     - {
@@ -27,18 +26,18 @@
   date: "2023-08-18"
   dateReadable: "August 18, 2023"
   tracks: 
-    - {title: "Content", color: "#90be4e"}
-    # - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Author", color: "#90be4e"}
+    - {title: "Content", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [404]
+    	sessionIds: [404, 003]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [002]
+    	sessionIds: [002,503]
     }
     - {
         startTime: "13:00",
