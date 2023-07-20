@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Vietnamese Scientist and Engineers Conference 2023 /n <typeout> "
+heroTitle: "Vietnamese Scientist and Engineers Conference 2023 <typeout> "
 eventDate: "August 17-20, 2023"
 typeoutTextValues: '"", "Connect", "Collaborate", "Contribute"'
 typeoutFallback: "Conference"
