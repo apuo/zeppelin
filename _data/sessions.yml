@@ -1,59 +1,95 @@
 -
+  id: 101
+  title: "Pre-conference: Young Vietnamese Scholars Session"
+  place: "video-conferencing"
+  service: true
+  description: "Presentation of research and projects by Vietnamese high school and undergraduate students
+"
+-
+  id: 201
+  title: "Team-building activities"
+  place: "Liberty State Park, Jersey City 07305"
+  service: true
+-
+  id: 202
+  title: "Registration"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
+  id: 203
+  title: "Poster session and research pitching"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
+  id: 204
+  title: "Opening reception and scoial networking hour"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
+  id: 301
+  title: "Welcome and introductions"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
+  id: 305
+  title: "Lunch"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Graduate student talk: interdisciplinary discussion"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 308
+  title: "Closing session: re-cap and announcement of the next year plan"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  id: 309
+  title: "Gala dinnner and performances"
+  place: "New Jersey Institute of Technology (Building and Room TBC)"
+  service: true
+-
+  id: 309
+  title: "New York City tour and other optional activities and departure
+  place: "New York City"
+  service: true
+-
+  id: 302
+  title: "Welcome remarks"
+  description: "Distinguished guest speaker from New Jersey Institute of Technology (TBC)"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [1]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  # complexity: "Intermediate"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  id: 303
+  title: "All the ways home: trends and career opportunities in Vietnam in the next five years"
+  description: "Career Opportunities in Vietnam with WorldQuant"
   subtype: presentation
-  speakers: [4]
+  speakers: [2,3,4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # complexity: "Intermediate" 
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 304
+  title: "Industry sharing: How to succeed at a career in the industry"
+  description: "Sharing from experienced scientists and engineers working in industries in the US"
+  subtype: presentation
+  speakers: [5,6,7]
+  # language: en
+  # complexity: "Intermediate" 
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  id: 306
+  title: "Resaerch-academia: Journeys to successs in academia and research in the US"
+  description: "Sharing from experienced researchers in academia in the US"
+  subtype: presentation
+  speakers: [8,9,10]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  # complexity: "Beginner"
+  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
