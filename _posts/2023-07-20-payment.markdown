@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Payment"
+date:   2023-07-20 08:00:00
+isStaticPost: false
+---
+
+We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
+but also because our team are putting together 
+the final missing parts to Vietnamese scientists an engineers conference 2023 in New Jersey. 
+
+Please mention your name and your organization name in any payment to attend or sponsor the conference please transfer to the following accounts:
+
+In Vietnam:
+"Trung tâm Hỗ trợ Phát triển Khoa học và Công nghệ" - Center for Science and Technology Development (CENSTED), the legal entity of the VEF network in Vietnam
+
+- Account name: Trung tâm Hỗ trợ Phát triển Khoa học và Công nghệ
+
+Account no.: 19134556377011
+
+"Ngân hàng Kỹ thương Việt Nam" (Techcombank), Hoang Quoc Viet Branch, Hanoi
+
+Swift Code: VTCBVNVX
+
+Bank code: 01310001
+
+In the U.S.:
+Vietnam Education Foundation Fellows and Scholar Association (VEFFA), a 501c3, non-profit organization, the legal entity of the VEF network in the U.S.
+
+- Bank of America account:
+
+Account No. 4870 0732 2809
+
+ACH Routing Number: 082000073
+
+Title on Account: The Vietnam Education Foundation Fellows Association.
+
+- Email for PayPal / Zelle: treasurer@veffa.org
+
+- Venmo QR code: https://photos.app.goo.gl/dpTat2K6qzsnAB6Q9

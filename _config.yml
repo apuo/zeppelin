@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Vietnamese Scientist and Engineers Conference 2023 <typeout> "
+heroTitle: "Vietnamese Scientists and Engineers Conference <typeout> "
 eventDate: "August 17-20, 2023"
 typeoutTextValues: '"", "Connect", "Collaborate", "Contribute"'
 typeoutFallback: "Conference"
@@ -136,41 +136,41 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "50"
+  priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
+  buyButtonText: "Pay Now"
+  ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
+  validFrom: "2023-08-17T10:00"
+  validThrough: "2023-08-20T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "60"
+  priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
+  validFrom: "2023-08-17T10:00"
+  validThrough: "2023-08-20T23:59"
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "50"
+  priceCurrency: "USD"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  additionalInfo: "Requires a valid student ID at the conference check in"
+  ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
+  validFrom: "2023-08-17T10:00"
+  validThrough: "2023-08-20T23:59"
+  # soldOut: true
+  # soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
