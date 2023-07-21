@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VEF 2.0 conference"
 email: "cuongnguyen@vef2.org"
 description: "VEF 2.0 conference"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://apuo.github.io/zeppelin"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -140,7 +140,7 @@ ticketsOffers:
   priceCurrency: "USD"
   ticketsNumber: "150"
   # ribbon: "-5%"
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
+  buyButtonLink: "/blog/payment"
   buyButtonText: "Pay Now"
   ticketContentList: ["Present projects online", "Get professional feedback", "Listen to peer presentation"]
   validFrom: "2023-08-17T10:00"
@@ -152,7 +152,7 @@ ticketsOffers:
   ticketsNumber: "100"
   # ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
+  buyButtonLink: "/blog/payment"
   buyButtonText: "Pay Now"
   ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
   validFrom: "2023-08-17T10:00"
@@ -163,7 +163,7 @@ ticketsOffers:
   price: "49"
   priceCurrency: "USD"
   ticketsNumber: "50"
-  buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
+  buyButtonLink: /blog/payment"
   buyButtonText: "Pay Now"
   # additionalInfo: "Requires a valid student ID at the conference check in"
   ticketContentList: ["Present rearch projects", "Join team-building activitites", "Group night hangout during airbnb stay"]
