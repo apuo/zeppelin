@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "VEF 2.0 organization", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "logo-light.svg"}
+    - {name: "VEF 2.0 organization", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "organizer-logo.png"}
 - 
   group: "Sponsors"
   elements: 
