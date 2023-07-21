@@ -67,7 +67,7 @@ heroButtons:
 # About Block
 aboutTitle: "Location: New Jersey Institute of Technology"
 aboutBlock:
- - {title: "Young Vietnamese scholars session", image: "conference.jpg", text: "Presentation of research and projects by Vietnamese high school and undergraduate students" }
+ - {title: "Young Vietnamese scholars session", image: "conference.jpg", text: "Presentations of research and projects by Vietnamese high school and undergraduate students" }
  - {title: "Team building activitites", image: "workshop.jpg", text: "Fun team building activities for participants to get to know each other" }
  - {title: "All the ways home", image: "hackathon.jpg", text: "Trends and career opportunities for engineers and scientists in Vietnam in the next five years" }
 
