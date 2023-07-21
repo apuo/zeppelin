@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2023-07-21 09:00:00
+date:   2023-07-20 09:00:00
 isStaticPost: false
 ---
+
 Vietnamese Scientists and Engineers Conference 2023 will be hold at New Jersey Institute of Technology. If you want to be part of this great event as a speaker you knocked at the good door.
 
 #### Presenters – who should speak at the DevFest Conference?
