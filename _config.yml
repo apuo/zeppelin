@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VEF 2.0 conference"
 email: "cuongnguyen@vef2.org"
 description: "VEF 2.0 conference"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://apuo.github.io/zeppelin"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
