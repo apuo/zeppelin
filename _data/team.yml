@@ -1,9 +1,9 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "pic1"
+  surname: "conf"
+  title: "Conference picture"
+  thumbnailUrl: 20190802_145428cf.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -14,10 +14,10 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "pic2"
+  surname: "conf"
+  title: "Conference picture"
+  thumbnailUrl: 20220820_085908cf.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -26,10 +26,23 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "pic3"
+  surname: "conf"
+  title: "Conference picture"
+  thumbnailUrl: 20190803_151302cf.jpg
+  team: true
+  # ribbon: 
+    # - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+    # - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
+    # - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 3
+  name: "pic4"
+  surname: "conf"
+  title: "Conference picture"
+  thumbnailUrl: 20190803_091607cf.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -39,21 +52,31 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "pic1"
+  surname: "teambuilding"
+  title: "Team building picture"
+  thumbnailUrl: DSCF1693tb.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "pic2"
+  surname: "teambuilding"
+  title: "Team building picture"
+  thumbnailUrl: 20220820_213806tb.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 6
+  name: "pic3"
+  surname: "teambuilding"
+  title: "Team building picture"
+  thumbnailUrl: tb.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
