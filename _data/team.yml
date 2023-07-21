@@ -66,7 +66,7 @@
   name: "pic2"
   surname: "teambuilding"
   title: "Team building picture"
-  thumbnailUrl: 20220820_213806tb.jpg
+  thumbnailUrl: 20220820_213806tb.JPG
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
@@ -76,7 +76,7 @@
   name: "pic3"
   surname: "teambuilding"
   title: "Team building picture"
-  thumbnailUrl: tb.jpg
+  thumbnailUrl: tb.JPG
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
