@@ -135,19 +135,19 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "50"
+  name: "High school student"
+  price: "39"
   priceCurrency: "USD"
   ticketsNumber: "150"
   ribbon: "-5%"
   buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Pay Now"
-  ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
+  ticketContentList: ["Present projects online", "Get professional feedback", "Listen to peer presentation"]
   validFrom: "2023-08-17T10:00"
   validThrough: "2023-08-20T23:59"
  -
-  name: "Last Chance"
-  price: "60"
+  name: "Professional"
+  price: "79"
   priceCurrency: "USD"
   ticketsNumber: "100"
   ribbon: "-20%"
@@ -159,14 +159,14 @@ ticketsOffers:
   validThrough: "2023-08-20T23:59"
   disabled: true
  -
-  name: "Student"
-  price: "50"
+  name: "PhdD student"
+  price: "49"
   priceCurrency: "USD"
   ticketsNumber: "50"
   buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in"
-  ticketContentList: ["Attend presentations", "Join team-building activities", "Group night chat in airbnb stay"]
+  # additionalInfo: "Requires a valid student ID at the conference check in"
+  ticketContentList: ["Present project", "Join team-building activitites", "Group night chat in airbnb stay"]
   validFrom: "2023-08-17T10:00"
   validThrough: "2023-08-20T23:59"
   # soldOut: true
