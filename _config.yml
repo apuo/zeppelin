@@ -136,10 +136,10 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "High school student"
-  price: "39"
+  price: "18"
   priceCurrency: "USD"
   ticketsNumber: "150"
-  # ribbon: "-5%"
+  ribbon: "-50%"
   buyButtonLink: "https://apuo.github.io/zeppelin/blog/payment"
   buyButtonText: "Pay Now"
   ticketContentList: ["Present projects online", "Get professional feedback", "Listen to peer presentation"]
