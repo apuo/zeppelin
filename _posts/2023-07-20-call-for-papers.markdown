@@ -44,7 +44,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 
 
-#### Please submit your proposals here.
+#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSdStuaTowl66Rysu-EoYMTsEM9DAhyM2nOvpSKsUG8JS0jkzA/viewform).
 __Deadline__ is August 5 , 2023
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
