@@ -52,4 +52,4 @@ __Please note:__ There is no guarantee that a submission will be put onto the co
 The program committee picks the most interesting talk proposals and informs the selected submitters until August 5, 2023.<br/>
 
 #### Any questions? 
-Email organizers at [cuong-nguyen@vef2.org](mailto:cuong-nguyen@vef2.org)
+Email organizers at [2023conf@vef2.org](mailto:2023conf@vef2.org)
