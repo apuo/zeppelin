@@ -7,7 +7,7 @@ isStaticPost: false
 
 Vietnamese Scientists and Engineers Conference 2023 will be hold at New Jersey Institute of Technology. If you want to be part of this great event as a speaker you knocked at the good door.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Presenters – who should speak at Vietnamese Scientists and Engineers Conference 2023 Conference?
 
 * researchers (in industry and academia)
 * startup companies that develop technologies in STEM
@@ -44,7 +44,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Please submit your proposals here.
 __Deadline__ is August 5 , 2023
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
