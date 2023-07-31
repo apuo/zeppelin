@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Vietnamese Scientists and Engineers Conference <typeout>"
 eventDate: "August 17-20th, 2023"
-typeoutTextValues: '"", "Connect", "Collaborate", "Contribute"'
+typeoutTextValues: '"Connect", "Collaborate", "Contribute"'
 typeoutFallback: "Connect, Collaborate, Contribute"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdStuaTowl66Rysu-EoYMTsEM9DAhyM2nOvpSKsUG8JS0jkzA/viewform", text: "Register to present"}
