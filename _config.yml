@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "VEF 2.0 conference"
 email: "cuongnguyen@vef2.org"
-description: "VEF 2.0 conference"
+description: "VEF 2.0 Conference"
 baseurl: "/"
 url: "https://apuo.github.io/zeppelin"
 permalink: "/blog/:title"
@@ -65,11 +65,11 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Location: New Jersey Institute of Technology"
+aboutTitle: "Venue: New Jersey Institute of Technology"
 aboutBlock:
- - {title: "Young Vietnamese scholars session", image: "conference.jpg", text: "Presentations of research and projects by Vietnamese high school and undergraduate students via video conferencing" }
- - {title: "Team building activitites", image: "workshop.jpg", text: "Fun team building activities for participants to get to know each other" }
- - {title: "All the ways home", image: "hackathon.jpg", text: "Trends and career opportunities for engineers and scientists in Vietnam in the next five years" }
+ - {title: "Young Vietnamese Scholars Session", image: "conference.jpg", text: "Presentations of research and projects by Vietnamese high school and undergraduate students via video conferencing" }
+ - {title: "Team Building Activitites", image: "workshop.jpg", text: "Fun team building activities for participants to get to know each other" }
+ - {title: "All The Ways Home", image: "hackathon.jpg", text: "Trends and career opportunities for engineers and scientists in Vietnam in the next five years" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,7 +80,7 @@ statisticBlock:
  - {count: "2", specialCharacter: "", info: "types of activities", detail: "professional presentations and networking"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "For Participants"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
