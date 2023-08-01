@@ -1,10 +1,11 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "VEF 2.0 organization", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "organizer-logo.png"}
+    - {name: "VEF 2.0 program", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "VEF 2.0 Logo.jpg"}
+    - {name: "The Vietnam Education Foundation Fellows and Scholars Association (VEFFA)", description: "", link: "", imageUrl: "VEFFA.png"}
 - 
   group: "Sponsors"
   elements: 
-    - {name: "EQuest", description: "EQuest - The Quest for Excellence", link: "https://equest.vn/en/", imageUrl: "equest.jpg"}
-    - {name: "Qualcomm", description: "Inventing the tech the world loves", link: "https://www.qualcomm.com/", imageUrl: "Qualcomm-Logo.svg"}
-    - {name: "TrustingSocial", description: "Advancing data science and technology to deliver finanical access for all", link: "https://trustingsocial.com/", imageUrl: "trustingsocial-logo-vector.png"}
+    - {name: "New Jersey Institute of Technology", description: "", link: "https://www.njit.edu/", imageUrl: "Logo NJIT.png"}
+    - {name: "WorldQuant", description: "", link: "https://www.worldquant.com/who-we-are/", imageUrl: "Logo WQ.jpg"}
+    

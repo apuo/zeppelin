@@ -200,7 +200,9 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The VEF 2.0 Program is developed on the success of the Vietnam Education Foundation (VEF) Fellowship Program – a program created by the U.S. Congress from 2003-2016 to strengthen the bilateral relationship between the United States and Vietnam through educational exchange activities. During its 14 years of operation, the VEF Fellowship Program has successfully built a bridge between Vietnam and the United States and has established a process that enables young, talented Vietnamese students to get admission to study at top U.S. universities. Further information can be found at: {link: "https://vef2.org/page/about-us.aspx", text: "VEF2.0"} "
+aboutUs: "The VEF 2.0 Program is developed on the success of the Vietnam Education Foundation (VEF) Fellowship Program – a program created by the U.S. Congress from 2003-2016 to strengthen the bilateral relationship between the United States and Vietnam through educational exchange activities. During its 14 years of operation, the VEF Fellowship Program has successfully built a bridge between Vietnam and the United States and has established a process that enables young, talented Vietnamese students to get admission to study at top U.S. universities. Further information can be found at: "
+links:
+   - {link: "https://vef2.org/page/about-us.aspx", text: "VEF2.0"} 
 
 # # Logistics Find Way Block
 # findWayTitle: "Find your way here"
