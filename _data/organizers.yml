@@ -1,11 +1,11 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "VEF 2.0 program", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "VEF 2.0 Logo.jpg"}
+    - {name: "VEF 2.0 program", description: "VEF 2.0 organization", link: "https://vef2.org/", imageUrl: "VEF-2-Logo.jpg"}
     - {name: "The Vietnam Education Foundation Fellows and Scholars Association (VEFFA)", description: "", link: "", imageUrl: "VEFFA.png"}
 - 
   group: "Sponsors"
   elements: 
-    - {name: "New Jersey Institute of Technology", description: "", link: "https://www.njit.edu/", imageUrl: "Logo NJIT.png"}
-    - {name: "WorldQuant", description: "", link: "https://www.worldquant.com/who-we-are/", imageUrl: "Logo WQ.jpg"}
+    - {name: "New Jersey Institute of Technology", description: "", link: "https://www.njit.edu/", imageUrl: "Logo-NJIT.png"}
+    - {name: "WorldQuant", description: "", link: "https://www.worldquant.com/who-we-are/", imageUrl: "Logo-WQ.jpg"}
     
