@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VEF 2.0 conference"
+title: "VEF 2.0 Conference"
 email: "cuongnguyen@vef2.org"
 description: "VEF 2.0 Conference"
 baseurl: "/"
